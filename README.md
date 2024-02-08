@@ -1,1 +1,1 @@
-# This basic HTML and CSS page 
+# This is a basic HTML and CSS page 
